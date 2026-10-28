@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
+  <img src="./sukuna-banner.gif" width="100%" alt="Sukuna">
 
-<!--
-**PRDog08/PRDog08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>👹 PRDog08</h1>
+  <p><strong>Do diagnóstico ao código.</strong></p>
+  <p>Assistência técnica em impressoras · Python/Flask · soluções web</p>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🩸 Sobre mim
+Desenvolvendo aplicações web para simplificar atendimentos e relatórios técnicos.
+
+### 🔥 Tecnologias em prática
+Python · Flask · HTML · CSS · JavaScript · SQLAlchemy · PostgreSQL · Git/GitHub
+
+### ⚙️ Projeto em destaque
+[Relatórios Técnicos E2nPrinter](https://github.com/PRDog08/sistema-relatorios-tecnicos-e2nprinter)
